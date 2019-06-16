@@ -1,32 +1,40 @@
+<?php define('ACTIVEMENU', 'index'); ?>
 <?php require('head.inc.php'); ?>
 <?php require('header.inc.php'); ?>
 
     <div class="slide-one-item home-slider owl-carousel">
       
-      <div class="site-blocks-cover overlay" style="background-image: url(images/hero_bg_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay" style="background-image: url(images/allStar-group.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
-
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-              
-
-              <h1 class="text-white font-weight-light">Never Stop Exploring</h1>
-              <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga est inventore ducimus repudiandae.</p>
-              <p><a href="#" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
-
+              <h1 class="text-white font-weight-light">Rookie All Star</h1>
+              <p class="mb-5">2018-2019 season Rookie All Star winning team in Central Valley regional, established in 2018 summer. </p>
+              <?php /* <p><a href="#" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p> */ ?>
             </div>
           </div>
         </div>
       </div>  
 
-      <div class="site-blocks-cover overlay" style="background-image: url(images/hero_bg_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover overlay" style="background-image: url(images/LS-star.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center text-center">
-
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-              <h1 class="text-white font-weight-light">Love The Places</h1>
-              <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga est inventore ducimus repudiandae.</p>
-              <p><a href="#" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
+              <h1 class="text-white font-weight-light">Based in Taiwan</h1>
+              <p class="mb-5">We are from Lishan Senior High School, a science oriented school in Taipei, Taiwan</p>
+              <!--<p><a href="#" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>-->
+            </div>
+          </div>
+        </div>
+      </div>  
+
+      <div class="site-blocks-cover overlay" style="background-image: url(images/Detroit-group.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row align-items-center justify-content-center text-center">
+            <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
+              <h1 class="text-white font-weight-light">Championship attending team</h1>
+              <p class="mb-5">Competed in championship Detroit 2019</p>
+              <!--<p><a href="#" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>-->
             </div>
           </div>
         </div>
@@ -39,27 +47,37 @@
       
       <div class="container overlap-section">
         <div class="row">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
             <a href="#" class="unit-1 text-center">
-              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+              <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/FRC_Logo.svg" alt="Image" class="img-fluid" style="padding-top:22%; padding-bottom:22%; background-color:white">
               <div class="unit-1-text">
-                <h3 class="unit-1-heading">Write Down Your Experience</h3>
+                <h3 class="unit-1-heading">What is FRC?</h3>
               </div>
             </a>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
             <a href="#" class="unit-1 text-center">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/magpie-logo.svg" alt="Image" class="img-fluid" style="padding-top:32%; padding-bottom:32%; background-color:white">
               <div class="unit-1-text">
-                <h3 class="unit-1-heading">Explore Asian Mountains</h3>
+                <h3 class="unit-1-heading">About FRC#7589</h3>
+                <strong class="text-primary mb-2 d-block">Lishan Blue Magpie</strong>
               </div>
             </a>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
             <a href="#" class="unit-1 text-center">
-              <img src="images/img_3.jpg" alt="Image" class="img-fluid">
+              <img src="images/LSSH.png" alt="Image" class="img-fluid" style="padding-top:7%; padding-bottom:7%; background-color:white">
               <div class="unit-1-text">
-                <h3 class="unit-1-heading">Safe Trip With Airasia</h3>
+                <h3 class="unit-1-heading">About Our School</h3>
+                <strong class="text-primary mb-2 d-block">Lishan Senior High School</strong>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <a href="#" class="unit-1 text-center">
+              <img src="images/robots.jpg" alt="Image" class="img-fluid">
+              <div class="unit-1-text">
+                <h3 class="unit-1-heading">Our Robots</h3>
               </div>
             </a>
           </div>
@@ -69,34 +87,52 @@
     </div>
 
 
-    <div class="site-section">
+    <div class="site-section bg-light">
       <div class="container">
         <div class="row align-items-stretch">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary flaticon-airplane"></span></div>
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <div class="unit-4 d-flex flex-column">
+              <div class="unit-4-icon d-flex align-items-end mb-2">
+                <span class="text-primary mr-4 flaticon-podium"></span>
+                <h3>History Events</h3>
+              </div>
               <div>
-                <h3>Air Ticketing</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary flaticon-ship"></span></div>
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <div class="unit-4 d-flex flex-column">
+              <div class="unit-4-icon d-flex align-items-end mb-2">
+                <span class="text-primary mr-4 flaticon-contract"></span>
+                <h3>Documents</h3>
+              </div>
               <div>
-                <h3>Cruises</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary flaticon-route"></span></div>
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <div class="unit-4 d-flex flex-column">
+              <div class="unit-4-icon d-flex align-items-end mb-2">
+                <span class="text-primary mr-4 flaticon-heart"></span>
+                <h3>Sponsors</h3>
+              </div>
               <div>
-                <h3>Tour Packages</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p><a href="#">Learn More</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <div class="unit-4 d-flex flex-column">
+              <div class="unit-4-icon d-flex align-items-end mb-2">
+                <span class="text-primary mr-4 flaticon-www"></span>
+                <h3>Links</h3>
+              </div>
+              <div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -111,10 +147,8 @@
 
 
 
-    
+<?php /* quotes / testimonials
     <div class="site-section block-13 bg-light">
-  
-
     <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-7">
@@ -169,9 +203,9 @@
         </div>
       </div>
     </div>
+*/ ?>
 
-
-
+<?php /* image blocks 
     <div class="site-section">
       
       <div class="container">
@@ -259,7 +293,8 @@
         </div>
       </div>
     </div>  
-
+*/ ?>
+<?php /* texts section with title
     <div class="site-section bg-light">
       <div class="container">
         <div class="row justify-content-center mb-5">
@@ -335,8 +370,8 @@
         </div>
       </div>
     </div>
-
-
+*/ ?>
+<?php /* blog / articles
     <div class="site-section">
       <div class="container">
         <div class="row justify-content-center mb-5">
@@ -370,17 +405,18 @@
         </div>
       </div>
     </div>
-    
+*/ ?>
+
     <div class="site-section border-top">
       <div class="container">
         <div class="row text-center">
           <div class="col-md-12">
-            <h2 class="mb-5 text-black">Want To Travel With Us?</h2>
-            <p class="mb-0"><a href="booking.html" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
+            <h2 class="mb-5 text-black">Want To Know More?</h2>
+            <p class="mb-0"><a href="contact.html" class="btn btn-primary py-3 px-5 text-white">Contact Us</a></p>
           </div>
         </div>
       </div>
     </div>
-    
+
 <?php require('footer.inc.php'); ?>
 <?php require('foot.inc.php'); ?>

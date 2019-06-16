@@ -3,7 +3,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="mb-5">
-              <h3 class="footer-heading mb-4">About Travelers</h3>
+              <h3 class="footer-heading mb-4">About FRC#7589</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe pariatur reprehenderit vero atque, consequatur id ratione, et non dignissimos culpa? Ut veritatis, quos illum totam quis blanditiis, minima minus odio!</p>
             </div>
 
@@ -18,17 +18,21 @@
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
                   <li><a href="#">Home</a></li>
-                  <li><a href="#">Destination</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">About</a></li>
+                  <li><a href="#">About FRC</a></li>
+                  <li><a href="#">About 7589</a></li>
+                  <li><a href="#">About Our School</a></li>
+                  <li><a href="#">Events - Competition</a></li>
+                  
                 </ul>
               </div>
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
+                  <li><a href="#">Events - Outreach</a></li>
+                  <li><a href="#">Our Robots</a></li>
+                  <li><a href="#">Documents</a></li>
+                  <li><a href="#">Sponsors</a></li>
+                  <li><a href="#">Links</a></li>
                   <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Discounts</a></li>
                 </ul>
               </div>
             </div>
@@ -41,8 +45,8 @@
            
 
             <div class="mb-5">
-              <h3 class="footer-heading mb-2">Subscribe Newsletter</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit minima minus odio.</p>
+              <h3 class="footer-heading mb-2">Leave A Message</h3>
+              <p>TBA: submit to google form</p>
 
               <form action="#" method="post">
                 <div class="input-group mb-3">
@@ -58,13 +62,12 @@
           </div>
           
         </div>
-        <div class="row pt-5 mt-5 text-center">
+        <div class="row mt-3 text-center">
           <div class="col-md-12">
             <div class="mb-5">
-              <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              <a href="https://fb.me/FRC7589" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+              <a href="https://twitter.com/FRC7589" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+              <a href="https://www.instagram.com/frc_7589/" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
             </div>
 
             <p>

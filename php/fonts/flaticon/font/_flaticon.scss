@@ -1,12 +1,13 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 10/01/2019 02:03
+    Creation date: 16/06/2019 19:17
     */
 
     @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -36,16 +37,28 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-route:before { content: "\f100"; }
-.flaticon-airplane:before { content: "\f101"; }
-.flaticon-hotel:before { content: "\f102"; }
-.flaticon-sailboat:before { content: "\f103"; }
-.flaticon-ship:before { content: "\f104"; }
-.flaticon-ski:before { content: "\f105"; }
+    .flaticon-airplane:before { content: "\f100"; }
+.flaticon-hotel:before { content: "\f101"; }
+.flaticon-sailboat:before { content: "\f102"; }
+.flaticon-ship:before { content: "\f103"; }
+.flaticon-ski:before { content: "\f104"; }
+.flaticon-route:before { content: "\f105"; }
+.flaticon-podium:before { content: "\f106"; }
+.flaticon-contract:before { content: "\f107"; }
+.flaticon-browser:before { content: "\f108"; }
+.flaticon-heart:before { content: "\f109"; }
+.flaticon-web:before { content: "\f10a"; }
+.flaticon-www:before { content: "\f10b"; }
     
-    $font-Flaticon-route: "\f100";
-    $font-Flaticon-airplane: "\f101";
-    $font-Flaticon-hotel: "\f102";
-    $font-Flaticon-sailboat: "\f103";
-    $font-Flaticon-ship: "\f104";
-    $font-Flaticon-ski: "\f105";
+    $font-Flaticon-airplane: "\f100";
+    $font-Flaticon-hotel: "\f101";
+    $font-Flaticon-sailboat: "\f102";
+    $font-Flaticon-ship: "\f103";
+    $font-Flaticon-ski: "\f104";
+    $font-Flaticon-route: "\f105";
+    $font-Flaticon-podium: "\f106";
+    $font-Flaticon-contract: "\f107";
+    $font-Flaticon-browser: "\f108";
+    $font-Flaticon-heart: "\f109";
+    $font-Flaticon-web: "\f10a";
+    $font-Flaticon-www: "\f10b";

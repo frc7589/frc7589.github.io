@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Travalers &mdash; Colorlib Website Template</title>
+    <title>FRC7589 &mdash; 麗山藍鵲 Lishan Blue Magpie</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" href="/images/avatar40x40-transparent.png" type="image/png" />
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900|Display+Playfair:200,300,400,700"> 
     <link rel="stylesheet" href="fonts/icomoon/style.css">
